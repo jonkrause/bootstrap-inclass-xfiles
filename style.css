@@ -1,0 +1,42 @@
+.float-text {
+    display: inline-block;
+    width: 40%;
+}
+
+.jumbotron h1 {
+    font-size: 128px;
+}
+
+.jumbotron {
+    background-color: pink;
+}
+
+.blogStuff {
+    margin-top: 30px;
+}
+/*
+.row {
+    border: 3px dashed red;
+}
+*/
+
+/*.col-lg-1,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12 {
+    border: 2px solid blue;
+}*/
+/*
+
+[class*="col-"] {
+    border: 3px solid purple;
+}
+*/
